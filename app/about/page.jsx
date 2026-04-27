@@ -24,6 +24,7 @@ const about = () => {
           <p>₊˚⊹ ᰔExpected graduation: May, 2028</p>
           <p>✩｡° christyrd.17@gmail.com</p>
           <p>⟡ ݁₊ . Chicago, IL 60623</p>
+          <p>Programming languages: C++, Python, HTML, Java, Javascript, CSS, React</p>
         </div>
         <div className="w-48 h-48 flex items-center justify-center ml-auto">
           <img src="/hanni.jpg" alt="Hanni" className="w-full h-auto object-contain -mt-50"/>
@@ -58,7 +59,7 @@ const about = () => {
             <div className="bg-[#d3e6ff] border-2 border-black p-3 h-full flex flex-col">
               <div className="bg-white p-1 flex-1 flex flex-col">
                 <p className="text=[11px] leading-relaxed mb-4 text-black">
-                  Besides from CS, I am very into listening to music; Some of my favorite artists being Beabadoobee, Laufey, The Marias, Illit, New Jeans, and many more. I also enjoy watching movies, spending time with friends and family, doing arts and crafts, trying out new restaurants and coffee shops, and journaling. These hobbies bring out much creativity in me. It reminds me that life is full of many surprises and we must enjoy it to the fullest. I thank my loved ones for making this life so special to me.
+                  Besides from CS, I love sushi, I am very into listening to music; Some of my favorite artists being Beabadoobee, Laufey, The Marias, Illit, New Jeans, and many more. I also enjoy watching movies, spending time with friends and family, doing arts and crafts, trying out new restaurants and coffee shops, and journaling. These hobbies bring out much creativity in me. It reminds me that life is full of many surprises and we must enjoy it to the fullest. I thank my loved ones for making this life so special to me.
                 </p>
                 <div className="grid grid-cols-3 gap-2 mt-auto">
                   <div className="aspect-square bg-gray-200 border border-black overflow-hidden">

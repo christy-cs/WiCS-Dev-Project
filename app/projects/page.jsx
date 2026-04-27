@@ -29,6 +29,10 @@ const projects = () => {
             <p className="text-xs mt-4">The Women in Computer Science student organization at UIC selected a group of students, including me, to participate in a 12-week collab project to create personal websites. Using React, HTML, and Javascript, I created a functional website to introduce myself and my programming projects</p>
             <h2 className="text-lg font-bold">Financial Risk Dataset</h2>
             <p className="text-xs mt-4">Students were given the opportunity to choose a dataset they are interested in and create their own questions to answer regarding the dataset. The financial risk dataset was taken from Kaggle.com . I focused on 3 countries (USA, Mexico and Canada) and compared the data to determine which country has the lowest financial risk probability.</p>
+            <a href="https://colab.research.google.com/drive/1-xwbudI4IHyfgdggbLO0-zE-y3A9Hr8y?usp=sharing " target="_blank" rel="noopener noreferrer" className="text-[12px] underline decoration-1 underline-offset-4 hover:text-blue-400 break-all text-black">
+              Google Colab Report
+            </a>
+          
           </div>
         </div>
 

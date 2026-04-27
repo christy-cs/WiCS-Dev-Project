@@ -14,10 +14,10 @@ const projects = () => {
       {/*Left design*/}
       <div className="flex flex-col gap-8 w-full max-w-7xl justify-center items-start">
         <div classname="bg-white border-b-2 border-black p-2 flex items-center gap-2">
-          <div className="w-3 h-3 rounded-full bg-black"></div>
-          <div className="w-3 h-3 rounded-full bg-black"></div>
+          {/* <div className="w-3 h-3 rounded-full bg-black"></div>
+          <div className="w-3 h-3 rounded-full bg-black"></div> */}
           <div className="flex-1 bg-white border-2 border-black rounded-full h-5 px-3 flex items-center">
-            <span className="text-[10px] font-bold">Project One</span>
+            <span className="text-[10px] font-bold">Projects</span>
           </div>
         </div>
         <div className="p-4">
